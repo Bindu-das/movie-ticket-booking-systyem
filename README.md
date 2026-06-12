@@ -1,4 +1,4 @@
-Movie Ticket Booking System
+## Movie Ticket Booking System
 Project Overview
 
 The Movie Ticket Booking System is a Database Management System (DBMS) project developed to manage movie ticket reservations efficiently. The system allows users to view movies, select shows, book tickets, and make payments. It also enables administrators to manage movies, theatres, shows, bookings, and payment records.
